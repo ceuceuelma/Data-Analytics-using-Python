@@ -3,7 +3,7 @@ Submitted as a portfolio for Data Analytics projects
 
 ## Description
 Each file consists of one or two analytics projects using Python.
-These portfolios are using the same dataset: Online Retail Data.csv 
+These portfolios are using the same dataset: Online Retail Data.xlsx 
   
   ### Part 1: Fundamental Data Analytics
   Consists of fundamental functions for data analytics such as import library, import dataset, basic data query, data cleansing, data impute, data binning, and case statement.
